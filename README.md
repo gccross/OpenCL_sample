@@ -39,7 +39,7 @@ The YouTube videos by David Black-Schaffer I found were good too.  Here is one o
 
 https://www.youtube.com/watch?v=dsZv82qfWRs
 
-Here I look back and the references are probably inverted to where a normal person would probably want to start.
+Here I look back and the references are probably inverted to where a normal person would want to start.
 
 Oh, and profiling/monitoring (otherwise how do you know your sh*t is working?).  On the Mac OS X, you’ll need 'Graphics Tools for Xcode’ from here:
 
