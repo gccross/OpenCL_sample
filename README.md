@@ -15,8 +15,9 @@ Note the ultimate command: ‘clang -framework OpenCL …’.  I’m not sure if
 
 To compile (or precompile?) the gpu kernels (eg. generate .cl.o) , you need openclc, the OpenCL compiler for your platform.  Mac OSX comes with it, (or with Xcode commandline tools).  It is located in:
 
- /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/openclc
-
+```
+/System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/openclc
+```
 
 You don't need full Xcode, only the command-line developer tools. So: 
 
