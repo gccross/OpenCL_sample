@@ -18,7 +18,13 @@ To compile (or precompile?) the gpu kernels (eg. generate .cl.o) , you need open
  /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/openclc
 
 
-You don't need full Xcode, only the command-line developer tools.  
+You don't need full Xcode, only the command-line developer tools. So: 
+
+```
+xcode-select --install 
+```
+
+should work on a fresh Mac.
 
 If you don’t want to get your hands messy, you can stay at the pontificating-architectural-philisophical level where lofty idealistic ambitions need not be insulted by the real world of making sh*t work.  Such a strategy is beneficial in the interviewing context, in which case, you can just memorize some common API’s and bedazzle them with your brilliance.  Skip Jail, proceed directly to Go and your $200 by studying here:
 
