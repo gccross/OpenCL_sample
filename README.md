@@ -26,7 +26,7 @@ xcode-select --install
 
 should work on a fresh Mac.
 
-If you don’t want to get your hands messy, you can stay at the pontificating-architectural-philisophical level where lofty idealistic ambitions need not be insulted by the real world of making sh*t work.  Such a strategy is beneficial in the interviewing context, in which case, you can just memorize some common API’s and bedazzle them with your brilliance.  Skip Jail, proceed directly to Go and your $200 by studying here:
+If you don’t want to get your hands messy, you can stay at the pontificating-architectural-philisophical level where lofty idealistic ambitions need not be deposed by the real world of making sh*t work. Such a strategy is beneficial in the interviewing context, in which case, you can just memorize some common API’s and bedazzle them with your brilliance.  Skip Jail, proceed directly to Go and get your $200 by studying here:
 
 https://www.khronos.org/opencl/resources
 
