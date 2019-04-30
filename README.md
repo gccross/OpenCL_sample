@@ -11,7 +11,7 @@ But it is poisoned by the Xcode IDE.  I eschew IDE’s because they make you fat
 
 http://cjlarose.com/2015/02/05/makefile-for-opencl-development.html
 
-Note the ultimate command: $$clang -framework OpenCL …$$.  I’m not sure if that is cross-platform or Mac OS X specific.
+Note the ultimate command: $$ clang -framework OpenCL … $$.  I’m not sure if that is cross-platform or Mac OS X specific.
 
 To compile (or precompile?) the gpu kernels (eg. generate .cl.o) , you need openclc, the OpenCL compiler for your platform.  Mac OSX comes with it, (or with Xcode commandline tools).  It is located in:
 
